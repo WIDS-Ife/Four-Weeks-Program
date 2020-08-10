@@ -1,0 +1,6 @@
+Today we would looking at Data pre-processing
+What is data-preprocessing?
+What are the steps involved?
+
+
+To better understanding, navigate to to the next notebook
